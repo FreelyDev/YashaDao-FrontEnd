@@ -1,0 +1,64 @@
+[
+  {
+    "title" : "TOKENOMICS",
+    "buy" : "BUY",
+    "sell" : "SELL",
+    "totalSupply" : "TOTAL SUPPLY",
+
+    "liquidify" : "Liquidity",
+    "marketing":"Marketing",
+    "rewards" : "Rewards"
+  },
+  
+  {
+    "title" : "代币经济学",
+    "buy" : "买",
+    "sell" : "卖",
+    "totalSupply" : "总供应量",
+    
+    "liquidify" : "总供应量",
+    "marketing":"行销",
+    "rewards" : "奖励"
+  },
+  {
+    "title" : "TOKENOMICS",
+    "buy" : "COMPRAR",
+    "sell" : "VENDER",
+    "totalSupply" : "SUMINISTRO TOTAL",
+    
+    "liquidify" : "Liquidez",
+    "marketing":"Marketing",
+    "rewards" : "Marketing"
+  },
+  {
+    "title" : "ÉCOSYSTÈME YASHA",
+    "buy" : "ACHETER",
+    "sell" : "VENDRE",
+    "totalSupply" : "TOTAL SUPPLY",
+    
+    "liquidify" : "Liquidité",
+    "marketing":"Commercialisation",
+    "rewards" : "Commercialisation"
+  },
+  {
+    "title" : "टोकनोमिक्स",
+    "buy" : "खरीदें",
+    "sell" : "बेचें",
+    "totalSupply" : "कुल आपूर्ति",
+    
+    "liquidify" : "लिक्विडिटी",
+    "marketing":"मार्केटिंग",
+    "rewards" : "रिवार्ड्स"
+  },
+  {
+    "title" : "トークノミクス",
+    "buy" : "買う",
+    "sell" : "売る",
+    "totalSupply" : "総供給量",
+    
+    "liquidify" : "流動性",
+    "marketing":"マーケティング",
+    "rewards" : "報酬"
+  }
+
+]

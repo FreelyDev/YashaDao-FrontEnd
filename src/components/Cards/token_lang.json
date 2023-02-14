@@ -1,0 +1,44 @@
+[
+  {
+    "FAIR" : "FAIR Launch",
+    "STEALTH" : "STEALTH Launch",
+    "total_raised" : "TOTLA RAISED",
+    "soft" : "SOFT/HARD CAP",
+    "start" : "START AT"
+  },
+  {
+    "FAIR" : "公平发售",
+    "STEALTH" : "随机发售",
+    "total_raised" : "筹款总数",
+    "soft" : "软/硬顶",
+    "start" : "始于"
+  },
+  {
+    "FAIR" : "FAIR Launch",
+    "STEALTH" : "STEALTH Launch",
+    "total_raised" : "Total recaudado",
+    "soft" : "Cap. de mercado dura/blandaP",
+    "start" : "Empieza el"
+  },
+  {
+    "FAIR" : "Lancement Équitable",
+    "STEALTH" : "Lancement Furtif",
+    "total_raised" : "Total Amassé",
+    "soft" : "Soft/Hard Cap",
+    "start" : "Commencer à"
+  },
+  {
+    "FAIR" : "फेयर लॉन्च",
+    "STEALTH" : "स्टील्थ लांच",
+    "total_raised" : "कुल जुटाया",
+    "soft" : "सॉफ्ट/हार्ड कैप",
+    "start" : "प्रारंभ"
+  },
+  {
+    "FAIR" : "FAIR Launch",
+    "STEALTH" : "STEALTH Launch",
+    "total_raised" : "総調達額",
+    "soft" : "ソフト・ハード時価総額",
+    "start" : "開始時刻"
+  }
+]

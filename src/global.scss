@@ -1,0 +1,23 @@
+$width: 678px;
+$bg_color: #000;
+$str_color: rgb(60, 190, 112);
+@mixin mobile_potrait {
+  @media screen and (max-width: $width) and (orientation: portrait) {
+    @content;
+  }
+}
+@mixin mobile_landscape {
+  @media screen and (max-height: $width) and (orientation: landscape) {
+    @content;
+  }
+} ;
+
+@font-face {
+  font-family: Segoe_UI;
+  src: url(/fonts/Segoe_UI.ttf);
+}
+
+@font-face {
+  font-family: Segoe_UI_Bold;
+  src: url(/fonts/Segoe_UI_Bold.ttf);
+}

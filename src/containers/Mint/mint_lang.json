@@ -1,0 +1,75 @@
+[
+  {
+    "logo" : "YASHA",
+    "desc" : "Get additional rewards from the YASHA ecosystem by minting and staking an NFT...",
+    "wallet_string" : "Wallet is not connected",
+    "public" : "Public mint is open",
+    "collection" : "NFT COLLECTION",
+    "minted":"NFTS MINTED",
+    "button" : {
+      "connect" : "CONNECT WALLET",
+      "disconnect" : "Mint NFTS"
+    }
+  },
+  {
+    "logo" : "夜叉",
+    "desc" : "通过铸造和质押NFT从夜叉生态系统中获得额外的奖励......",
+    "wallet_string" : "钱包未连接",
+    "public" : "公众铸造已开启",
+    "collection" : "NFT集合",
+    "minted":"NFTS已铸造",
+    "button" : {
+      "connect" : "连接钱包",
+      "disconnect" : "铸造NFTS"
+    }
+  },
+  {
+    "logo" : "YASHA",
+    "desc" : "Obtenga compensaciones adicionales del ecosistema YASHA cuando haga mint the un NFT y lo ponga en stake...",
+    "wallet_string" : "La cartera no está conectada",
+    "public" : "Mintear está disponible al público",
+    "collection" : "COLECCIÓN NFT",
+    "minted":"NFTS MINTEADOS",
+    "button" : {
+      "connect" : "Conectar cartera",
+      "disconnect" : "Mintear NFTs"
+    }
+  },
+  {
+    "logo" : "YASHA",
+    "desc" : "Obtenez des récompenses supplémentaires de l'écosystème YASHA en frappant et en 'staking' un NFT...",
+    "wallet_string" : "Le portefeuille n'est pas connecté",
+    "public" : "Public mint is open",
+    "collection" : "COLLECTION NFT",
+    "minted":"NFTS MINTED",
+    "button" : {
+      "connect" : "Connecter le portefeuille",
+      "disconnect" : "Mint NFTS"
+    }
+  },
+  {
+    "logo" : "YASHA",
+    "desc" : "YASHA इकोसिस्टम से NFT को मिंट और स्टेक करके अतिरिक्त रिवार्ड्स प्राप्त करें…",
+    "wallet_string" : "मिंट एनएफटीस",
+    "public" : "मिंट एनएफटीस",
+    "collection" : "एनएफटी संग्रह",
+    "minted":"एनएफटी संग्रह",
+    "button" : {
+      "connect" : "वॉलेट कनेक्ट करें",
+      "disconnect" : "मिंट एनएफटीस"
+    }
+  },
+  {
+    "logo" : "YASHA",
+    "desc" : "NFTをミントしてステーキングすることで、YASHAエコシステムから追加の報酬を獲得できます...",
+    "wallet_string" : "ウォレットが接続されていません",
+    "public" : "ミントは公に開放されています。",
+    "collection" : "ウォレットが接続されていません",
+    "minted":"ミントしたNFT",
+    "button" : {
+      "connect" : "ウォレットを接続",
+      "disconnect" : "NFTをミントする"
+    }
+  }
+
+]

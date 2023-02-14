@@ -1,0 +1,39 @@
+[
+  {
+    "title" : "TOKEN GENERATION EVENT",
+    "OPEN" : "OPEN",
+    "UPCOMING" : "UPCOMING",
+    "CLOSED" : "CLOSED"
+  },
+  {
+    "title" : "代币生成活动",
+    "OPEN" : "开启",
+    "UPCOMING" : "即将到来",
+    "CLOSED" : "关闭"
+  },
+  {
+    "title" : "EVENTO DE GENERACIÓN DE MONEDA",
+    "OPEN" : "Abierto",
+    "UPCOMING" : "Proximamente",
+    "CLOSED" : "Cerrado"
+  },
+  {
+    "title" : "ÉVÉNEMENT DE GÉNÉRATION DE JETON",
+    "OPEN" : "Ouvert",
+    "UPCOMING" : "A venir",
+    "CLOSED" : "Fermé"
+  },
+  {
+    "title" : "टोकन जनरेशन इवेंट",
+    "OPEN" : "खुला हुआ",
+    "UPCOMING" : "आगामी",
+    "CLOSED" : "समाप्त"
+  },
+  {
+    "title" : "トークンジェネレーションイベント",
+    "OPEN" : "オープン",
+    "UPCOMING" : "近日公開予定",
+    "CLOSED" : "終了"
+  }
+
+]

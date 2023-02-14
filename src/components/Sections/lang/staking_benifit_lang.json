@@ -1,0 +1,69 @@
+[
+  {
+    "title" : "STAKING BENEFITS",
+    "access" : "ACCESS",
+    "access_desc" : "Private access to upcoming TGEs",
+
+    "rewards" : "ETH REWARDS",
+    "rewards_desc" : "Receive ETH rewards while holding",
+
+    "price" : "PRICE FLOOR",
+    "price_desc" : "Decrease circulating supply which pushes the token price higher"
+  },
+  {
+    "title" : "质押的好处",
+    "access" : "邀请参与预售",
+    "access_desc" : "邀请参与预售",
+
+    "rewards" : "邀请参与预售",
+    "rewards_desc" : "持有时获得以太币奖励",
+
+    "price" : "价格下限",
+    "price_desc" : "价格下限"
+  },
+  {
+    "title" : "ENEFICIOS DE STAKING",
+    "access" : "ACCESO",
+    "access_desc" : "ACCESO",
+
+    "rewards" : "COMPENSAR EN ETH",
+    "rewards_desc" : "Reciba compensación en ETH mientras mantiene la posición",
+
+    "price" : "Reciba compensación en ETH mientras mantiene la posición",
+    "price_desc" : "Reciba compensación en ETH mientras mantiene la posición"
+  },
+  {
+    "title" : "AVANTAGES DE STAKING",
+    "access" : "ACCÉDER",
+    "access_desc" : "Accès privé aux prochains TGE",
+
+    "rewards" : "RÉCOMPENSES ETH",
+    "rewards_desc" : "Recevez des récompenses ETH tout en tenant",
+
+    "price" : "PRIX PLANCHER",
+    "price_desc" : "Diminution de l'offre en circulation qui pousse le prix du jeton plus haut"
+  },
+  {
+    "title" : "स्टेकिंग लाभ",
+    "access" : "एक्सेस",
+    "access_desc" : "आगामी TGE के लिए निजी पहुंच",
+
+    "rewards" : "ETH रिवार्ड्स",
+    "rewards_desc" : "होल्ड करते समय ETH रिवार्ड्स प्राप्त करें",
+
+    "price" : "प्राइस फ्लोर",
+    "price_desc" : "सर्कुलेटिंग सप्लाई को कम करें जिससे टोकन की कीमत अधिक हो जाती है"
+  },
+  {
+    "title" : "ステーキングのメリット",
+    "access" : "アクセス",
+    "access_desc" : "アクセス",
+
+    "rewards" : "イーサリアム報酬",
+    "rewards_desc" : "保持する事でETH報酬を受け取る",
+
+    "price" : "最低価格",
+    "price_desc" : "循環供給量を減らしトークンの価格を押し上げる"
+  }
+
+]

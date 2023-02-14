@@ -1,0 +1,260 @@
+@import "../../global.scss";
+.gallery {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  background-color: #b4f6ff00;
+  justify-content: flex-start;
+  flex-direction: column;
+  border-radius: 5px;
+  padding: 7px;
+  margin-bottom: 0.5rem;
+  @include mobile_potrait {
+    margin-bottom: 0.5rem;
+  }
+  @include mobile_landscape {
+    margin-bottom: 1rem;
+    width: 90%;
+  }
+  .top {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    @include mobile_potrait {
+      width: 100%;
+      flex-direction: column;
+    }
+    @include mobile_landscape {
+      width: 100%;
+    }
+    p {
+      color: #636569;
+      font-size: 14px;
+      width: fit-content;
+      text-align: left;
+      margin-bottom: 0rem;
+      @include mobile_potrait {
+        width: 100%;
+        margin-bottom: 10px;
+      }
+      @include mobile_landscape {
+        font-size: 0.8rem !important;
+      }
+    }
+
+    button {
+      width: auto;
+      color : #fff;
+      padding: .5rem 1.25rem;
+      border: 2px solid transparent;
+      outline: 0;
+      border-radius : 5px;
+      cursor : pointer;
+      transition : all 0.3s ease;
+      &:disabled {
+        opacity: .4;
+        border-color: #8149bf2e;
+        background-color: transparent;
+      };
+      
+      @include mobile_potrait {
+        padding: 0.2rem 0.3rem;
+      }
+      @include mobile_landscape {
+        font-size: 0.6rem;
+        min-width: 4rem !important;
+        padding: 0.2rem 0.3rem;
+        width: 4rem !important;
+        ;
+      }
+    }
+    .selectBtn{
+      background: linear-gradient(#0f0f24,#0f0f24) padding-box,linear-gradient(180deg,#ef655dbf 0,rgba(129,73,191,.18) 50%) border-box;
+      &:hover {
+        border-color: #ef655dbf;
+      }
+    }
+    .stakeBtn{
+      background: linear-gradient(#0f0f24,#0f0f24) padding-box,linear-gradient(180deg,#35ca7d 0,rgba(129,73,191,.18) 100%) border-box;
+      &:hover {
+        border-color: #35ca7d;
+      }
+    }
+    .row{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      grid-area: auto;
+      gap: 10px;
+      @include mobile_potrait {
+        width: 100%;
+        justify-content: space-between;
+      }
+      
+    }
+  }
+  .imgContent {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    .img_loader {
+      width: 100%;
+      position: absolute;
+      left: calc(50% - 50px);
+    }
+    .noNFT {
+      width: 100%;
+      position: absolute;
+      left: 0;
+      p {
+        width: 100%;
+        text-align: center;
+        font-size: 1rem;
+        @include mobile_potrait {
+          font-size: 0.6rem;
+          min-width: 6rem !important;
+          ;
+          padding: 0.2rem 0.3rem;
+        }
+        @include mobile_landscape {
+          font-size: 0.6rem;
+          min-width: 6rem !important;
+          ;
+          padding: 0.2rem 0.3rem;
+        }
+      }
+    }
+    .imgDone {
+      display: none;
+    }
+    .slideView {
+      width: 100%;
+      height: calc(10vw + 1rem);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow-x: scroll;
+      overflow-y: hidden;
+      margin-top: 0.5rem;
+      opacity: 0;
+      @include mobile_potrait {
+        height: calc(20vw + 1rem);
+      }
+      @include mobile_landscape {}
+      .slideList {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+        position: absolute;
+        left: 0rem;
+        @include mobile_potrait {}
+        @include mobile_landscape {}
+        .sideImg {
+          transition: all 0.3s ease;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-direction: column;
+          margin: 0.5rem;
+          @include mobile_potrait {
+            width: 20vw;
+            margin: 0.3rem;
+          }
+          @include mobile_landscape {
+            margin: 0.3rem;
+          }
+          .imgContainer {
+            width: 10vw;
+            height: 10vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 2px #fde99533 solid;
+            border-radius: 5px;
+            backdrop-filter: blur(5px);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            
+            &:hover {
+              box-shadow: 0px 0px 10px #fff;
+              .tokenID {
+                text-shadow: 2px 2px 3px black;
+              }
+            }
+            @include mobile_potrait {
+              width: 20vw;
+              height: 20vw;
+            }
+            @include mobile_landscape {}
+
+            .tokenID {
+              z-index: 1;
+              position: absolute;
+              top: 3%;
+              right: 4%;
+              border: 1px solid transparent;
+              
+              min-width: 30%;
+              width: 40%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              border-radius: 5px;
+              color: #fff;
+              background: linear-gradient(#0f0f24,#0f0f24) padding-box,linear-gradient(180deg,#fde995 0,rgba(129,73,191,.18) 100%) border-box;
+              transition: all 0.3s ease;
+              font-size: 0.8rem;
+              @include mobile_potrait {
+                font-size: 0.6rem;
+              }
+              @include mobile_landscape {
+                font-size: 0.6rem;
+              }
+            }
+          }
+          img {
+            width: 99%;
+            height: 99%;
+            transition: all 0.3s ease;
+            @include mobile_potrait {}
+            @include mobile_landscape {}
+          }
+          p {
+            font-size: 1rem;
+            color: #000;
+            @include mobile_potrait {
+              font-size: 0.6rem;
+            }
+            @include mobile_landscape {
+              font-size: 0.7rem;
+            }
+          }
+          .left {
+            width: 100%;
+          }
+        }
+        .selected {
+          .imgContainer {
+            border: 2px #fde995 solid;
+            img {
+              opacity: 0.7;
+            }
+          }
+        }
+      }
+      
+    }
+    .done {
+      opacity: 1;
+    }
+  }
+}

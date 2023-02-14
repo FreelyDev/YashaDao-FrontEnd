@@ -1,0 +1,69 @@
+[
+  {
+    "title" : "NFT BENEFITS",
+    "token" : "TOKEN REWARDS",
+    "token_desc" : "Stake an NFT and earn additional token rewards",
+
+    "community" : "COMMUNITY",
+    "community_desc" : "Support the community and token Liquidity",
+
+    "opportunity" : "OPPORTUNITIES",
+    "opportunity_desc" : "Get access to rare opportunities"
+  },
+  {
+    "title" : "NFT的好处",
+    "token" : "代币的奖励",
+    "token_desc" : "质押NFT以便获得而外的代币奖励。",
+
+    "community" : "社区",
+    "community_desc" : "支持社区和代币流动性",
+
+    "opportunity" : "机会",
+    "opportunity_desc" : "获得难得的机会"
+  },
+  {
+    "title" : "BENEFICIOS DE NFT",
+    "token" : "COMPENSACIÓN DE MONEDAS",
+    "token_desc" : "Stake un NFT y obtenga monedas adicionales a cambio",
+
+    "community" : "COMUNIDAD",
+    "community_desc" : "Apoyar a la comunidad y a la Liquidez de la moneda",
+
+    "opportunity" : "OPORTUNIDADES",
+    "opportunity_desc" : "OPORTUNIDADES"
+  },
+  {
+    "title" : "AVANTAGES DU NFT",
+    "token" : "RÉCOMPENSES",
+    "token_desc" : "Stakez un NFT et gagnez des récompenses supplémentaires",
+
+    "community" : "COMMUNAUTÉ",
+    "community_desc" : "Soutenir la communauté et jeton liquidité",
+
+    "opportunity" : "OPPORTUNITÉS",
+    "opportunity_desc" : "Accédez à des opportunités rares"
+  },
+  {
+    "title" : "एनएफटी लाभ",
+    "token" : "टोकन रिवार्ड्स",
+    "token_desc" : "एक एनएफटी स्टेक करें और अतिरिक्त टोकन रिवार्ड्स अर्जित करें",
+
+    "community" : "समुदाय",
+    "community_desc" : "समुदाय का समर्थन और टोकन लिक्विडिटी",
+
+    "opportunity" : "अवसर",
+    "opportunity_desc" : "दुर्लभ अवसरों तक पहुंच प्राप्त करें"
+  },
+  {
+    "title" : "NFTのメリット",
+    "token" : "トークン報酬",
+    "token_desc" : "NFTをステークして追加のトークン報酬を獲得",
+
+    "community" : "コミュニティ",
+    "community_desc" : "コミュニティ",
+
+    "opportunity" : "機会",
+    "opportunity_desc" : "機会"
+  }
+
+]

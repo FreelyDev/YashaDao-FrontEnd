@@ -1,0 +1,128 @@
+[
+  {
+    "NAKAKOSHO":"NAKAKOSHO",
+    "TOMOKOSHO":"TOMOKOSHO",
+    "KOSHOGUMI":"KOSHOGUMI",
+    "GOKENIN":"GOKENIN",
+    "MUJO DAIMYO":"MUJO DAIMYO",
+    "KUNIMOCHI":"KUNIMOCHI",
+    "SHOGUN":"SHOGUN",
+    
+    "STABLEMAN" : "STABLEMAN",
+    "ATTENDANT":"ATTENDANT",
+    "FIRST RANK CAVALRY":"FIRST RANK CAVALRY",
+    "CASTLE LORD":"CASTLE LORD",
+    "LORD":"LORD",
+    "GOVERNOR":"GOVERNOR",
+    
+    "token_amount" : "TOKEN AMOUNT",
+    "pool" : "POOL",
+    "SUBJECT TO AUDIT":"SUBJECT TO AUDIT",
+    "GUARANTEED":"GUARANTEED"
+  },
+  {
+    "NAKAKOSHO":"NAKAKOSHO",
+    "TOMOKOSHO":"TOMOKOSHO",
+    "KOSHOGUMI":"KOSHOGUMI",
+    "GOKENIN":"GOKENIN",
+    "MUJO DAIMYO":"MUJO DAIMYO",
+    "KUNIMOCHI":"KUNIMOCHI",
+    "SHOGUN":"SHOGUN",
+    
+    "STABLEMAN" : "STABLEMAN",
+    "ATTENDANT":"ATTENDANT",
+    "FIRST RANK CAVALRY":"FIRST RANK CAVALRY",
+    "CASTLE LORD":"CASTLE LORD",
+    "LORD":"LORD",
+    "GOVERNOR":"GOVERNOR",
+    
+    "token_amount" : "代币数量",
+    "pool" : "池",
+    "SUBJECT TO AUDIT":"有待审查",
+    "GUARANTEED":"保证"
+  },
+  {
+    "NAKAKOSHO":"NAKAKOSHO",
+    "TOMOKOSHO":"TOMOKOSHO",
+    "KOSHOGUMI":"KOSHOGUMI",
+    "GOKENIN":"GOKENIN",
+    "MUJO DAIMYO":"MUJO DAIMYO",
+    "KUNIMOCHI":"KUNIMOCHI",
+    "SHOGUN":"SHOGUN",
+    
+    "STABLEMAN" : "MOZO DE CUADRA",
+    "ATTENDANT":"ASISTENTE",
+    "FIRST RANK CAVALRY":"PRIMERO DE CABALLERÍA",
+    "CASTLE LORD":"PRIMERO DE CABALLERÍA",
+    "LORD":"CABALLERO",
+    "GOVERNOR":"GOBERNADOR",
+    
+    "token_amount" : "MOZO DE CUADRA",
+    "pool" : "MOZO DE CUADRA",
+    "SUBJECT TO AUDIT":"MOZO DE CUADRA",
+    "GUARANTEED":"GARANTIZADO"
+  },
+  {
+    "NAKAKOSHO":"NAKAKOSHO",
+    "TOMOKOSHO":"TOMOKOSHO",
+    "KOSHOGUMI":"KOSHOGUMI",
+    "GOKENIN":"GOKENIN",
+    "MUJO DAIMYO":"MUJO DAIMYO",
+    "KUNIMOCHI":"KUNIMOCHI",
+    "SHOGUN":"SHOGUN",
+    
+    "STABLEMAN" : "STABLEMAN",
+    "ATTENDANT":"ATTENDANT",
+    "FIRST RANK CAVALRY":"FIRST RANK CAVALRY",
+    "CASTLE LORD":"CASTLE LORD",
+    "LORD":"LORD",
+    "GOVERNOR":"GOVERNOR",
+    
+    "token_amount" : "Quantité de jetons",
+    "pool" : "POOL",
+    "SUBJECT TO AUDIT":"SOUMIS À VÉRIFICATION",
+    "GUARANTEED":"GARANTI"
+  },
+  {
+    "NAKAKOSHO":"नाकाकोशो",
+    "TOMOKOSHO":"तोमोकोशो",
+    "KOSHOGUMI":"कोशोगुमी",
+    "GOKENIN":"गोकेनिन",
+    "MUJO DAIMYO":"मुजो डेम्यो",
+    "KUNIMOCHI":"मुजो डेम्यो",
+    "SHOGUN":"शोगुन",
+    
+    "STABLEMAN" : "स्टेबलमैन",
+    "ATTENDANT":"परिचारक",
+    "FIRST RANK CAVALRY":"कैसल लॉर्ड",
+    "CASTLE LORD":"कैसल लॉर्ड",
+    "LORD":"लॉर्ड",
+    "GOVERNOR":"गवर्नर",
+    
+    "token_amount" : "टोकन राशि",
+    "pool" : "पूल",
+    "SUBJECT TO AUDIT":"लेखापरीक्षा के अधीन",
+    "GUARANTEED":"गारंटीड"
+  },
+  {
+    "NAKAKOSHO":"NAKAKOSHO",
+    "TOMOKOSHO":"TOMOKOSHO",
+    "KOSHOGUMI":"KOSHOGUMI",
+    "GOKENIN":"GOKENIN",
+    "MUJO DAIMYO":"MUJO DAIMYO",
+    "KUNIMOCHI":"KUNIMOCHI",
+    "SHOGUN":"SHOGUN",
+    
+    "STABLEMAN" : "厩舎",
+    "ATTENDANT":"警手",
+    "FIRST RANK CAVALRY":"一等兵",
+    "CASTLE LORD":"城主",
+    "LORD":"主",
+    "GOVERNOR":"知事",
+    
+    "token_amount" : "トークン量",
+    "pool" : "プール",
+    "SUBJECT TO AUDIT":"監査対象",
+    "GUARANTEED":"保証"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title" : "YASHA ECOSYSTEM",
+    "YASHADAO" : "YASHADAO",
+    "YASHADAO_desc" : "A vast community of like-minded individuals, where everyone's opinion matters.",
+
+    "LAUNCHPAD" : "LAUNCHPAD",
+    "LAUNCHPAD_desc" : "A TGE platform for unique and vetted projects, governed by the community.",
+
+    "INCUBATOR" : "INCUBATOR",
+    "INCUBATOR_desc" : "DAO members provide community support, guidance and a network of knowledge."
+  },
+  {
+    "title" : "夜叉生态系统",
+    "YASHADAO" : "夜叉道",
+    "YASHADAO_desc" : "一个由志同道合的人，并注重每个人的意见所组成的庞大社区。",
+
+    "LAUNCHPAD" : "启动平台",
+    "LAUNCHPAD_desc" : "由独特的社区管理且经过审查的项目的TGE平台。",
+
+    "INCUBATOR" : "孵化平台",
+    "INCUBATOR_desc" : "借由道成员提供社区支持、指导和知识网。"
+  },
+  {
+    "title" : "YASHA ECOSYSTEM",
+    "YASHADAO" : "YASHADAO",
+    "YASHADAO_desc" : "na gran comunidad de individuales con ideas afines, donde la opinión de cada uno importa.",
+
+    "LAUNCHPAD" : "PLATAFORMA DE LANZAMIENTO",
+    "LAUNCHPAD_desc" : "Una plataforma TGE para proyectos únicos y examinados, gobernada por la comunidad.",
+
+    "INCUBATOR" : "INCUBADORA",
+    "INCUBATOR_desc" : "Los miembros de DAO brindan apoyo comunitario, orientación y una red de conocimiento."
+  },
+  {
+    "title" : "ÉCOSYSTÈME YASHA",
+    "YASHADAO" : "YASHADAO",
+    "YASHADAO_desc" : "Une vaste communauté d'individus partageant les mêmes idées, où l'opinion de chacun compte.",
+
+    "LAUNCHPAD" : "PLATEFORME DE LANCEMENT DE PROJECT",
+    "LAUNCHPAD_desc" : "Une plateforme TGE pour des projets uniques et approuvés, gouvernés par la communauté.",
+
+    "INCUBATOR" : "INCUBATEUR",
+    "INCUBATOR_desc" : "Les membres du DAO fournissent un soutien communautaire, des conseils et un réseau de connaissances."
+  },
+  {
+    "title" : "यशा इकोसिस्टम",
+    "YASHADAO" : "YASHADAO",
+    "YASHADAO_desc" : "समान विचारधारा वाले व्यक्तियों का एक विशाल समुदाय, जहाँ सभी की राय मायने रखती है।",
+
+    "LAUNCHPAD" : "लॉन्चपैड",
+    "LAUNCHPAD_desc" : "समुदाय द्वारा शासित अद्वितीय और पुनरीक्षित परियोजनाओं के लिए एक TGE मंच।",
+
+    "INCUBATOR" : "इनक्यूबेटर",
+    "INCUBATOR_desc" : "DAO सदस्य सामुदायिक सहायता, मार्गदर्शन और ज्ञान का एक नेटवर्क प्रदान करते हैं।"
+  },
+  {
+    "title" : "YASHA エコシステム",
+    "YASHADAO" : "YASHADAO",
+    "YASHADAO_desc" : "みんなの意見が重要な、志を同じくする個人の広大なコミュニティ。",
+
+    "LAUNCHPAD" : "ローンチパッド",
+    "LAUNCHPAD_desc" : "コミュニティによって管理された独自の吟味されたプロジェクトのための TGE プラットフォーム。",
+
+    "INCUBATOR" : "インキュベーター",
+    "INCUBATOR_desc" : "DAO メンバーは、コミュニティ サポート、ガイダンス、および知識のネットワークを提供します。"
+  }
+
+]

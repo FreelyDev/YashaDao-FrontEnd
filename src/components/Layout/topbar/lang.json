@@ -1,0 +1,57 @@
+[
+  {
+    "logo" : "YASHA",
+    "home" : "HOME",
+    "projects" : "PROJECTS",
+    "button" : {
+      "connect" : "CONNECT WALLET",
+      "disconnect" : "DISCONNECT"
+    }
+  },
+  {
+    "logo" : "夜叉",
+    "home" : "首页",
+    "projects" : "项目",
+    "button" : {
+      "connect" : "连接钱包",
+      "disconnect" : "断开钱包"
+    }
+  },
+  {
+    "logo" : "YASHA",
+    "home" : "INICIO",
+    "projects" : "PROYECTOS",
+    "button" : {
+      "connect" : "Conectar cartera",
+      "disconnect" : "Desconectar"
+    }
+  },
+  {
+    "logo" : "YASHA",
+    "home" : "ACCUEIL",
+    "projects" : "PROJETS",
+    "button" : {
+      "connect" : "Connecter portefeuille",
+      "disconnect" : "Déconnecter"
+    }
+  },
+  {
+    "logo" : "YASHA",
+    "home" : "HOME",
+    "projects" : "प्रोजेक्ट्स",
+    "button" : {
+      "connect" : "वॉलेट कनेक्ट करें",
+      "disconnect" : "वॉलेट डिस्कनेक्ट करें"
+    }
+  },
+  {
+    "logo" : "YASHA",
+    "home" : "HOME",
+    "projects" : "PROJECTS",
+    "button" : {
+      "connect" : "ウォレットを接続",
+      "disconnect" : "ウォレットを切断"
+    }
+  }
+
+]
